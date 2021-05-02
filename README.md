@@ -1,14 +1,14 @@
 <img src="https://www.wpblog.com/wp-content/uploads/2018/10/wp-guide-ebook-bnr-logo.jpg.png" width="200">
 
-## 🔗 Apa itu wordpress ?
+##  Apa itu wordpress ?
 
 WordPress adalah sistem manajemen konten atau dalam bahasa Inggris content manajemen system (CMS), sebuah perangkat lunak atau sistem yang mengatur konten pada situs web yang menaungi lebih dari 35% website di dunia, dan persentase ini masih akan terus meningkat. CMS sendiri merupakan aplikasi berbasis website.
 
-## 🔗 Apa fungsi wordpress ?
+##  Apa fungsi wordpress ?
 
 WordPress juga merupakan suatu blog tool yang dirancang untuk memudahkan pembuatan dan pemeliharaan blog seperti penulisan, pengeditan, pempublikasian posting blog dan komentar dengan fungsi khusus untuk memanajemen gambar, video, sindikasi web, serta moderasi posting dan komentar.
 
-## 🔗 Download ebook sekarang
+##  Download ebook sekarang
 
 ### WordPress Cheat Sheet
 
@@ -99,7 +99,7 @@ WordPress juga merupakan suatu blog tool yang dirancang untuk memudahkan pembuat
 
 > [Download](https://panel.niagahoster.co.id/ebook-download?hash=eyJlYm9va19pZCI6IjQ5IiwiZmlsZV9wYXRoIjoiaHR0cHM6XC9cL25pYWdhc3BhY2Uuc2dwMS5jZG4uZGlnaXRhbG9jZWFuc3BhY2VzLmNvbVwvZWJvb2tzXC8yMC1sYW5na2FoLXdhamliLXNldGVsYWgtaW5zdGFsbC13b3JkcHJlc3MtMS0xNTY3NDIwMTgyLTE2MDQ4OTgyODcucGRmIiwibmFtZSI6IlplbiBEZXYiLCJlbWFpbCI6IndvbGZoaXJvMTBAZ21haWwuY29tIn0=)⏎
 
-## 🔗 Sumber Informasi
+##  Sumber Informasi
 
 > [ NIAGAHOSTER ](https://www.niagahoster.co.id/)
 
